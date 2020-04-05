@@ -1,6 +1,5 @@
-## AWS SAA C01 Notes 
---------------------
- 
+SAA C01 notes
+```
 IAM
     IAM is Global
     Best to use One IAM user per person - for login and long term. Service limit 5000 users
@@ -519,3 +518,4 @@ App Utility Services
     KMS:
       Keys never leave region;
       Alias points at multiple keys - that way the apps are agnostic of keys/key changes
+```
